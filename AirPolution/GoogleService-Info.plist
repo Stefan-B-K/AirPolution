@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>716375566616-qjfjd403ksbbnn8nq60vd87dh6iu00ur.apps.googleusercontent.com</string>
+	<string></string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.716375566616-qjfjd403ksbbnn8nq60vd87dh6iu00ur</string>
+	<string></string>
 	<key>API_KEY</key>
-	<string>AIzaSyDROfReY_XV-eRCialfRQoWo6c5bpV7G4M</string>
+	<string></string>
 	<key>GCM_SENDER_ID</key>
 	<string>716375566616</string>
 	<key>PLIST_VERSION</key>
@@ -17,7 +17,7 @@
 	<key>PROJECT_ID</key>
 	<string>e-tensor-370109</string>
 	<key>STORAGE_BUCKET</key>
-	<string>e-tensor-370109.appspot.com</string>
+	<string></string>
 	<key>IS_ADS_ENABLED</key>
 	<false/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:716375566616:ios:ddb42456cc9e4b84f8d66d</string>
+	<string></string>
 </dict>
 </plist>
